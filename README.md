@@ -11,3 +11,10 @@ Then with Data Visualization going to find patterns and insight among data. Some
 * **Donutplot**
 * **Scatterplot**
 * **Histogram** 
+
+Some of plots are listed below, for more information and full analysis, pls open notebook and study analysis like proportion of winners, frequent times, play mode, game status and ...
+![](https://github.com/SoroushGhaderi/Lichess_Data_Analysis/blob/master/figures/Barplot_of_frequntly_of_initial_and_addition_time.png)
+![](https://github.com/SoroushGhaderi/Lichess_Data_Analysis/blob/master/figures/Barplot_of_openings.png)
+![](https://github.com/SoroushGhaderi/Lichess_Data_Analysis/blob/master/figures/Histogram_of_turns.png)
+![](https://github.com/SoroushGhaderi/Lichess_Data_Analysis/blob/master/figures/Donut_plot_of_winner_types.png)
+![](https://github.com/SoroushGhaderi/Lichess_Data_Analysis/blob/master/figures/Barplot_of_times.png)
