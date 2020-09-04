@@ -1,9 +1,8 @@
 # Lichess
 [Lichess](https://lichess.org) is a free and open-source Internet chess server run by a non-profit organization of the same name. Anyone can play anonymously, although players may register an account on the site to play rated games
-The dataset contains 20,000+ Lichess Games, including moves, victor, rating, opening details and more.
-
-
+The dataset contains 20,000+ Lichess Games, including moves, victor, rating, opening details and more.\
 ![](https://github.com/SoroushGhaderi/Lichess_Data_Analysis/blob/master/figures/Lichess_new_logo.png)
+
 ## **General Info**
 
 This is a set of just over 20,000 games collected from a selection of users on the site Lichess.org, and how to collect more. I will also upload more games in the future as I collect them. This set contains the:
